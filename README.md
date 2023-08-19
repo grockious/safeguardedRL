@@ -1,6 +1,6 @@
 # Safeguards
 
-All VizDoom experiments in this paper are conducted using [SampleFactory](https://github.com/alex-petrenko/sample-factory) on a Ryzen 7 5800X CPU and an NVIDIA RTX 3090 GPU.
+The experiments are implemented on a computer equipped with an AMD EPYC 64-Core CPU, Tesla T4 GPU, and 100 GB of RAM running Ubuntu 20.04.6. All VizDoom experiments in this paper are conducted using [SampleFactory](https://github.com/alex-petrenko/sample-factory).
 
 ## Setup
 
