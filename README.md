@@ -8,7 +8,13 @@ Please follow the instructions on the SampleFactory page to set up the framework
 
 ## Running Experiments
 
+### ViZDoom
+
 To reproduce the baseline, zero shot, and safeguarded results, use `run_trial.sh`.
 
 Please keep in mind that running all of the trials will take several hours depending on your hardware.
+
+### GPT-2 Finetuned Models
+
+GPT-2 finetuned models can be found under `gpt-2-ft` directory. After unzipping the shards, each model can be invoked using the provided script `talk.py`.
 
