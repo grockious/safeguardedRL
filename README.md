@@ -14,6 +14,10 @@ To reproduce the baseline, zero shot, and safeguarded results, use `run_trial.sh
 
 Please keep in mind that running all of the trials will take several hours depending on your hardware.
 
+### MineCraft
+
+To run PCL on MineCraft, run `minecraft.py`.
+
 ### GPT-2 Finetuned Models
 
 GPT-2 finetuned models can be found under `gpt-2-ft` directory. After unzipping the shards, each model can be invoked using the provided script `talk.py`.
