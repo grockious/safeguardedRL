@@ -9,7 +9,7 @@ load_optimizer_2="False"
 use_rnn="True"
 log_rollout_violations="False"
 num_envs_per_worker="16"
-wandb_user="wandb_uname"
+wandb_user="0-flails_saddles"
 
 
 for i in 1 2 3 4 5 6 7 8 9 10
